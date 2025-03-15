@@ -10,7 +10,6 @@ The project has been made under the supervision of Pietro Lio, Cristian Consenti
 
 ## Structure
 
-echo "
 📂 Master_thesis\n\
 ├── 📁 Code/   # Processed frame and clip datasets ready for training \n\
 │   ├── Dataset_Creation.ipynb      \n\
@@ -24,7 +23,7 @@ echo "
 ├── 📄 LICENSE/             \n\
 ├── 📄 Master Thesis/             \n\
 └── 📄 README/                                 # Documentation \n\
-"
+
 
 
 ## Dataset Access
