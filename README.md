@@ -10,11 +10,12 @@ Language Models**.
 
 The original dataset is protected under license and the processed dataset cannot be shared publicly. The Original dataset can be downloaded using the following google form. The Dropbox file contains the :
 
+
 echo "
-📂 Master Thesis
-├── 📁 Datasets/           # Processed dataset ready for training
-├── 📁 Models/             # Saved models used for test and inference
-├── 📁 Predictions/        # Predicted JSON, contains the generated reports
+📂 Master Thesis\n\
+├── 📁 Datasets/           # Processed dataset ready for training \n\
+├── 📁 Models/             # Saved models used for test and inference\n\
+├── 📁 Predictions/        # Predicted JSON, contains the generated reports\n\
 └── 📄 README.md           # Documentation
 "
 
