@@ -4,6 +4,8 @@ This repository contains code and resources for my Master's thesis **A Novel Mul
 Video Report Generation with Large
 Language Models**.
 
+The project has been made under the supervision of Pietro Lio, Cristian Consentino and Mishra Siddhartha.
+
 ---
 
 ## Structure
@@ -27,7 +29,7 @@ echo "
 
 ## Dataset Access
 
-The original dataset is protected under license and the processed dataset cannot be shared publicly. The Original dataset can be downloaded using the following google form. The Dropbox file contains the :
+The original dataset is protected under license and the processed dataset cannot be shared publicly. The Original dataset can be downloaded using the following google form. The Dropbox file is organised as follows :
 
 
 echo "
@@ -41,7 +43,6 @@ echo "
   *(Please fill out the form to request access.)*
 
 - **Processed Datasets**: [Dropbox Folder](https://www.dropbox.com/scl/fo/dxgile7sjtfie18ch8gcz/AGwi8nFqGPMFPd3S7AHxD5o?rlkey=zj5p9mqddtfhwc61arjybmyxp&st=pt02tp7e&dl=0)  
-  *(Contains pre-processed frames, labels, and metadata.)*
 
 ---
 
