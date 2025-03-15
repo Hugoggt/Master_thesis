@@ -6,17 +6,35 @@ Language Models**.
 
 ---
 
-## 📂 Dataset Access
+## Structure
+
+echo "
+📂 Master_thesis\n\
+├── 📁 Code/           # Processed frame and clip datasets ready for training \n\
+│   ├── Dataset_Creation.ipynb      \n\
+│   ├── Object_Detection.ipynb      \n\
+│   ├── Frame_Caption.ipynb      \n\
+│   ├── Clip_caption_Generation.ipynb   \n\
+│   ├── Summary_Generation.ipynb      \n\
+├── 📁 Figures/             \n\
+├── 📁 Papers/             # Necessary papers for the thesis\n\
+├── 📄 Generated reports/             #  Reports generated for every video\n\
+├── 📄 LICENSE/             \n\
+├── 📄 Master Thesis/             \n\
+└── 📄 README/        # Documentation \n\
+"
+
+
+## Dataset Access
 
 The original dataset is protected under license and the processed dataset cannot be shared publicly. The Original dataset can be downloaded using the following google form. The Dropbox file contains the :
 
 
 echo "
-📂 Master Thesis\n\
-├── 📁 Datasets/           # Processed dataset ready for training \n\
+📂 Hugo\n\
+├── 📁 Datasets/           # Processed frame and clip datasets ready for training \n\
 ├── 📁 Models/             # Saved models used for test and inference\n\
-├── 📁 Predictions/        # Predicted JSON, contains the generated reports\n\
-└── 📄 README.md           # Documentation
+└── 📁 Predictions/        # Predicted JSON, contains the generated reports\n\
 "
 
 - **Original Dataset**: [Google Form](https://forms.gle/GbMj8TwNoNpMUJuv9)  
