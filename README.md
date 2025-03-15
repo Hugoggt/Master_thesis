@@ -25,21 +25,6 @@ echo "
 ├── 📄 Master Thesis/             \n\
 └── 📄 README/                                 # Documentation \n\
 "
-echo -e "
-📂 Master_thesis\n\
-├── 📁 Code/                                # Processed frame and clip datasets ready for training\n\
-│   ├── Dataset_Creation.ipynb\n\
-│   ├── Object_Detection.ipynb\n\
-│   ├── Frame_Caption.ipynb\n\
-│   ├── Clip_caption_Generation.ipynb\n\
-│   ├── Summary_Generation.ipynb\n\
-├── 📁 Figures/\n\
-├── 📁 Papers/                              # Necessary papers for the thesis\n\
-├── 📄 Generated reports/                   # Reports generated for every video\n\
-├── 📄 LICENSE/\n\
-├── 📄 Master Thesis/\n\
-└── 📄 README/                              # Documentation\n\
-"
 
 
 ## Dataset Access
