@@ -12,7 +12,7 @@ The project has been made under the supervision of Pietro Lio, Cristian Consenti
 
 echo "
 📂 Master_thesis\n\
-├── 📁 Code/  /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Processed frame and clip datasets ready for training \n\
+├── 📁 Code/  /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Processed frame and clip datasets ready for training \n\
 │   ├── Dataset_Creation.ipynb      \n\
 │   ├── Object_Detection.ipynb      \n\
 │   ├── Frame_Caption.ipynb      \n\
