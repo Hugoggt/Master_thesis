@@ -63,6 +63,9 @@ The dataset is organized as follows:
 
 ## Methodology Overview
 
+![motodol22](https://github.com/user-attachments/assets/095b3cca-f8da-49ef-b360-7e589b674a43)
+
+
 ### 1. **Object Detection**
 - Detects surgical tools, tissues, and key structures using a **Vision Transformer (ViT)**.
 - A multi-label classification approach ensures accurate feature extraction.
@@ -79,7 +82,6 @@ The dataset is organized as follows:
 - Uses **GPT-4** to compile structured and coherent surgical reports.
 - A custom prompt ensures consistency and readability in generated reports.
 
-![motodol22](https://github.com/user-attachments/assets/095b3cca-f8da-49ef-b360-7e589b674a43)
 
 ---
 
