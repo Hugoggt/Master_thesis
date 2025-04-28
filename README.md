@@ -1,4 +1,4 @@
-# A Novel Multimodal Approach for Surgery Video Report Generation with Large Language Models
+# Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI
 
 This repository contains code and resources for the Master's thesis **"A Novel Multimodal Approach for Surgery Video Report Generation with Large Language Models"**.
 
