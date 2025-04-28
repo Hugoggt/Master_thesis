@@ -36,7 +36,7 @@ This approach ensures that AI can detect key instruments, actions, and critical 
 │   ├── `Frame_Caption.ipynb`       # Frame-level caption generation  
 │   ├── `Clip_Caption_Generation.ipynb`  # Clip-level captioning  
 │   ├── `Summary_Generation.ipynb`  # Final report generation  
-├── 📁 **Figures/**   # Figures used in the thesis 
+├── 📁 **Figures/**   # Figures used in the thesis                
 ├── 📁 **Models/**  # Fine-tuned models  
 ├── 📁 **Papers/**    # Research papers referenced in the thesis  
 ├── 📁 **Predictions/**  # Contains prediction folders of objects, frame and clip captions  
