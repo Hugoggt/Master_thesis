@@ -52,14 +52,6 @@ Due to licensing restrictions, the original dataset cannot be shared publicly. H
 
 - **Original Dataset**: [Google Form](https://forms.gle/GbMj8TwNoNpMUJuv9) *(Please fill out the form to request access.)*
 
-
-The dataset is organized as follows:
-
-📂 **Hugo**  
-├── 📁 **Datasets/**  # Processed frame and clip datasets ready for training  
-├── 📁 **Models/**  # Saved models for testing and inference  
-└── 📁 **Predictions/**  # Generated reports in JSON format  
-
 ---
 
 ## Methodology Overview
