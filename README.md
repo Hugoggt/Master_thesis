@@ -47,9 +47,10 @@ This approach ensures that AI can detect key instruments, actions, and critical 
 
 ## Dataset Access
 
-Due to licensing restrictions, the original dataset cannot be shared publicly. However, access to the dataset can be requested through the following links:
+Due to licensing restrictions, the original dataset cannot be shared publicly. However, access to the dataset can be requested through the following link:
 
 - **Original Dataset**: [Google Form](https://forms.gle/GbMj8TwNoNpMUJuv9) *(Please fill out the form to request access.)*
+
 
 The dataset is organized as follows:
 
@@ -94,6 +95,17 @@ For further details, please refer to the **full thesis document** in `Master_The
 
 ---
 
+## Reference for the CholecT50 dataset
+@article{nwoye2021rendezvous,
+  title={Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos},
+  author={Nwoye, Chinedu Innocent and Yu, Tong and Gonzalez, Cristians and Seeliger, Barbara and Mascagni, Pietro and Mutter, Didier and Marescaux, Jacques and Padoy, Nicolas},
+  journal={Medical Image Analysis},
+  volume={78},
+  pages={102433},
+  year={2022}
+}
+
+---
 📌 **Authors**:  
 Hugo Georgenthum  
 Supervisors: Pietro Lio, Cristian Cosentino, Mishra Siddhartha  
