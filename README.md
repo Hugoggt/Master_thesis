@@ -89,6 +89,7 @@ For further details, please refer to the **full thesis document** in `Master_The
 ---
 
 ## Reference 
+'''
 @misc{georgenthum2025enhancingsurgicaldocumentationmultimodal,
       title={Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI}, 
       author={Hugo Georgenthum and Cristian Cosentino and Fabrizio Marozzo and Pietro Liò},
@@ -98,7 +99,7 @@ For further details, please refer to the **full thesis document** in `Master_The
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2504.19918}, 
 }
-
+'''
 ---
 📌 **Authors**:  
 Hugo Georgenthum  
