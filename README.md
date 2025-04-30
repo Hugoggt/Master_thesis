@@ -88,14 +88,15 @@ For further details, please refer to the **full thesis document** in `Master_The
 
 ---
 
-## Reference for the CholecT50 dataset
-@article{nwoye2021rendezvous,
-  title={Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos},
-  author={Nwoye, Chinedu Innocent and Yu, Tong and Gonzalez, Cristians and Seeliger, Barbara and Mascagni, Pietro and Mutter, Didier and Marescaux, Jacques and Padoy, Nicolas},
-  journal={Medical Image Analysis},
-  volume={78},
-  pages={102433},
-  year={2022}
+## Reference 
+@misc{georgenthum2025enhancingsurgicaldocumentationmultimodal,
+      title={Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI}, 
+      author={Hugo Georgenthum and Cristian Cosentino and Fabrizio Marozzo and Pietro Liò},
+      year={2025},
+      eprint={2504.19918},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.19918}, 
 }
 
 ---
